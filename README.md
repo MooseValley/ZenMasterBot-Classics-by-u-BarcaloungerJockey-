@@ -5,20 +5,25 @@ In the light of a flickering screen,
 <br>Yet in a dream Satoshi talks of a dream.
 <br>A monster among monsters,
 <br>He intended to deceive the whole crowd.
+<hr>
 
 The Lazy Butter
 <br>Basks in his euphoria
 <br>Tips a ha'penny
+<hr>
 
 Cryptography means
 <br>your money can't be stolen
 <br>except when it is
+<hr>
 
 Wealth, like driving snow,
 <br>Blows down from Mt. Satoshi.
 <br>Then -- like snow -- it melts.
+<hr>
 
 Revenge is sweet, but enlightenment is sweeter still.
+<hr>
 
 Master Satoshi was walking west through Moon Valley.
 <br>Veru, his disciple, asked the master, "Why do these men run past with their bags of salt coins?"
@@ -29,6 +34,7 @@ Master Satoshi was walking west through Moon Valley.
 <br>As he cried, the Moon river pulled him under.
 <br>And thus he was enlightened.
 <br><i>(lots of changes by me).</i>
+<hr>
 
 A wannabe butter monk messaged his Master about an altcoin he wanted to buy.
 <br>The Master told him it was fated to moon. "It's only $0.10 per coin."
@@ -39,6 +45,7 @@ A wannabe butter monk messaged his Master about an altcoin he wanted to buy.
 <br>"To whom?" the master replied. "You were the only one buying that coin."
 <br>And thus the butter monk was enlightened.
 <br><i>(final sentence and line breaks added by me).</i>
+<hr>
 
 Late one morning a group of students were running nodes for a blockchain that had one thousand blocks.
 <br>Their teacher entered the room, typed something on a computer, and removed the 637th block, which allowed him to access and drain all their wallets. He told them to ponder this and went to lunch.
@@ -51,6 +58,7 @@ Late one morning a group of students were running nodes for a blockchain that ha
 <br>The next morning the students saw their wallets were still empty.
 <br>And thus they were enlightened.
 <br><i>(final 2 sentences changed and line breaks added by me).</i>
+<hr>
 
 Gurdjieff used to tell this parable: there was a magician who was also a butter. He convinced thousands of sheep to invest in his altcoin. He was also miserly and did not want to pay anyone to shill for him, but it was difficult to keep all the sheep in line.
 <br>So he played a trick on the sheep, and hypnotised them to believe they were not sheep but instead were lions and tigers and wolves. To some he even said, "You are men. Nobody is smarter than you, and you will soon be rich. Hodl."
@@ -61,6 +69,7 @@ Gurdjieff used to tell this parable: there was a magician who was also a butter.
 <br>And thus one by one the sheep were enlightened.
 <br>Dead ... but enlightened.
 <br><i>(last 2 lines added and line breaks added by me).</i>
+<hr>
 
 There once was a monk who was very afraid of death. Hoping to overcome his fear, he went to study at a famous Bitcoin temple. There he met a butter master, whom he asked, "Are you afraid to die?"
 <br>"Of course not!" claimed the master. "Once you truly understand the blockchain, you need not fear death because you shall live forever."
@@ -70,12 +79,14 @@ There once was a monk who was very afraid of death. Hoping to overcome his fear,
 <br>After many years, the monk's training under The Holy One was complete. Satoshi gave him a large, bejeweled dagger as a present for his achievements. Pleased with this, the monk returned to the Bitcoin temple and sought out the butter master.
 <br>Seeing the monk, the master asked, "Do you understand the blockchain and no longer fear death?" In answer, the monk drew out the dagger to show the master.
 <br>The master turned deathly white and ran away as quickly as he could. When he did not return, the monk was enlightened.
+<hr>
 
 The aspiring butter Riko Swavay once asked Nansensei to explain to him the problem of using Tether. "If a man puts his money into Tether," he said, "and adds funds to the account until it grows and grows and becomes enough to buy a lambo, and then there is no more reason not to buy one, how can the man get the money out without crashing the price, or exchanging for other coins?"
 <br>"Riko!" shouted Nansensei, and gave a great clap with his hands.
 <br>"Yes, master?" replied the butter with a start.
 <br>"See!" said Nansensei, "the money is out!"
 <br>Riko pondered this and was enlightened.
+<hr>
 
 Uoren Bafetto was examining the Bitcoin marketplace with his disciples. It was his way to take any situation and use it as a teaching moment. A man was struggling to store his private keys in a hardware wallet.
 <br>Uoren said, "Wait. Observe this man and his wallet, and I will teach you."
@@ -89,6 +100,7 @@ Uoren Bafetto was examining the Bitcoin marketplace with his disciples. It was h
 <br>The disciples all nodded and the man asked if he could join Bafetto's monestary.
 <br>And thus they were all enlightened.
 <br><i>(last line added me)</i>
+<hr>
 
 Sum Dongpoo was an avid student of Bitcoin whitepapers. He was quick-witted and as a Bitcoin follower very serious and self-disciplined in his investments. He often discussed Bitcoin with his good friend, Master Fapin. The two lived across the river from one another. 
 <br>  Sum Dongpoo felt inspired and wrote the following poem:
@@ -102,6 +114,7 @@ Sum Dongpoo was an avid student of Bitcoin whitepapers. He was quick-witted and 
 <br>  One fart blows me across the river.
 <br>And thus they were all enlightened.
 <br><i>(last line added me)</i>
+<hr>
 
 Satoshi told this parable: a traveler, fleeing jackbooted thugs who were chasing him, ran till he came to the edge of a cliff. There he caught hold of a thick vine, and swung himself over the edge.
 <br>Above him the statists snarled. Below him he heard another snarl, and behold, there was another hoard of government pansies, peering up at him. The vine suspended him midway between two gangs.
@@ -110,6 +123,7 @@ Satoshi told this parable: a traveler, fleeing jackbooted thugs who were chasing
 <br>How delicious!
 <br>And thus the traveler and the jackbooted thugs were enlightened.
 <br><i>(last line added me)</i>
+<hr>
 
 The stingy senior monk of a mountain temple had a pile of very valuable buttcoins.
 <br>He made a batch of sweet syrup, put the coins in a plastic bag and then into a large jug, and poured the syrup to fill the jug. He told his students that the syrup was really poison and it would kill if eaten.
@@ -119,6 +133,7 @@ The stingy senior monk of a mountain temple had a pile of very valuable buttcoin
 <br>The monk realized his gainz were gone forever and could not punish the boy.
 <br>And thus, monk and boy became enlightened.
 <br><i>(last line added me)</i>
+<hr>
 
 An intelligent but unwealthy man dressed in a ragged tee-shirt and jeans went to a Bitcoin expo to attend a banquet. Out of courtesy he was admitted but, because of his tattered clothing, he was seated at the end of the table. By the time the platters arrived at his seat, there was no food left on them.
 <br>The man left the banquet and returned later in a Lambo, dressed in a bespoke silk suit and and gold Rolex. This time he was brought immediately to the head of the table and, with great ceremony, food was brought to his seat first.
@@ -127,5 +142,6 @@ An intelligent but unwealthy man dressed in a ragged tee-shirt and jeans went to
 <br>Hearing this, the butter immediately scooped up a spoonful of mashed potatoes and fed it to his raspberry pi cold wallet.
 <br>And thus they were all enlightened.
 <br><i>(some changes and last line added me)</i>
+<hr>
 
 EOF.
