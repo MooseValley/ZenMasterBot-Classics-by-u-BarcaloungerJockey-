@@ -18,18 +18,17 @@ Wealth, like driving snow,
 Blows down from Mt. Satoshi.
 Then -- like snow -- it melts.
 
-
 Revenge is sweet, but enlightenment is sweeter still.
 
-Master Satoshi was walking west through moon valley.
-Veru asked the master, "Why do these men run past with their bags of salt coins?"
-Satoshi hit Veru with a blockchain: "Observe the Moon river."
-At the Moon River in Buy the Dip valley, the water was fresh. As the bagholders passed, each tripped and lost their coins into the wild tempest of the Moon river.
-Satoshi instructed Veru, "See how the water grabs at the bagholders salt? The water comes from Moon mountain fresh. Down the Moon river at Ico, they mine deposits left by the river."
-Veru could see the Icos filling more bags, but refused the master's teaching.
+Master Satoshi was walking west through Moon Valley.
+Veru, his disciple, asked the master, "Why do these men run past with their bags of salt coins?"
+Satoshi hit Veru with a blockchain: "Observe the Moon River."
+At the Moon River in Buy the Dip valley, the water was fresh. As the bagholders passed, blinded by their extreme greed, each tripped and lost their coins and their lives in the wild tempest of the Moon River.
+Satoshi instructed Veru, "See how the water grabs at the bagholders salt? See how it pulls them under? The water comes from Moon Mountain fresh. Down the Moon river at Ico, they mine deposits left by the river."
+Veru could see the Icos filling more bags, but refused his master's teaching.
 As he cried, the Moon river pulled him under.
 And thus he was enlightened.
-(final 2 sentences changed and line breaks added by me).
+<i>(lots of changes by me).</i>
 
 A wannabe butter monk messaged his Master about an altcoin he wanted to buy.
 The Master told him it was fated to moon. "It's only $0.10 per coin."
@@ -39,7 +38,7 @@ The day after the monk checked his exchange and the coin was at $0.40. Eager to 
 Checking online the following day the monk now saw the coin was valued at $0.90. Thinking what a windfall profit he had made in just a few days, the monk raced to see his master and told him, "Sell all my coins!"
 "To whom?" the master replied. "You were the only one buying that coin."
 And thus the butter monk was enlightened.
-(final sentence and line breaks added by me).
+<i>(final sentence and line breaks added by me).</i>
 
 Late one morning a group of students were running nodes for a blockchain that had one thousand blocks.
 Their teacher entered the room, typed something on a computer, and removed the 637th block, which allowed him to access and drain all their wallets. He told them to ponder this and went to lunch.
@@ -51,7 +50,7 @@ After hours of debate, one of the students asked, "Where is the Teacher? He has 
 They searched the monestary for the rest of the day and were unable to find him.
 The next morning the students saw their wallets were still empty.
 And thus they were enlightened.
-(final 2 sentences changed and line breaks added by me).
+<i>(final 2 sentences changed and line breaks added by me).</i>
 
 Gurdjieff used to tell this parable: there was a magician who was also a butter. He convinced thousands of sheep to invest in his altcoin. He was also miserly and did not want to pay anyone to shill for him, but it was difficult to keep all the sheep in line.
 So he played a trick on the sheep, and hypnotised them to believe they were not sheep but instead were lions and tigers and wolves. To some he even said, "You are men. Nobody is smarter than you, and you will soon be rich. Hodl."
@@ -61,8 +60,7 @@ It was always some sheep which was to be butchered.
 They remained aloof and distant, and by and by they were all butchered.
 And thus one by one the sheep were enlightened.
 Dead ... but enlightened.
-
-(last 2 lines added and line breaks added by me).
+<i>(last 2 lines added and line breaks added by me).</i>
 
 There once was a monk who was very afraid of death. Hoping to overcome his fear, he went to study at a famous Bitcoin temple. There he met a butter master, whom he asked, "Are you afraid to die?"
 "Of course not!" claimed the master. "Once you truly understand the blockchain, you need not fear death because you shall live forever."
@@ -72,7 +70,6 @@ The monk took this to heart and went to study with Satoshi.
 After many years, the monk's training under The Holy One was complete. Satoshi gave him a large, bejeweled dagger as a present for his achievements. Pleased with this, the monk returned to the Bitcoin temple and sought out the butter master.
 Seeing the monk, the master asked, "Do you understand the blockchain and no longer fear death?" In answer, the monk drew out the dagger to show the master.
 The master turned deathly white and ran away as quickly as he could. When he did not return, the monk was enlightened.
-(me: Awesome. But it should have been a "bejeweled ASIC").
 
 The aspiring butter Riko Swavay once asked Nansensei to explain to him the problem of using Tether. "If a man puts his money into Tether," he said, "and adds funds to the account until it grows and grows and becomes enough to buy a lambo, and then there is no more reason not to buy one, how can the man get the money out without crashing the price, or exchanging for other coins?"
 "Riko!" shouted Nansensei, and gave a great clap with his hands.
@@ -91,19 +88,20 @@ And the man was very angry and said "What kind of experiment is this?"
 But Uoren said to him and his disciples, "And this is the case with your minds."
 The disciples all nodded and the man asked if he could join Bafetto's monestary.
 And thus they were all enlightened.
-(last line added me)
+<i>(last line added me)</i>
 
-Sum Dongpoo was an avid student of Bitcoin whitepapers. He was quick-witted and as a Bitcoin follower very serious and self-disciplined in his investments. He often discussed Bitcoin with his good friend, Master Fapin. The two lived across the river from one another. Sum Dongpoo felt inspired and wrote the following poem:
-I bow my head to the heaven within Satoshi's Holy Intersteallar Comet,
-Hairline channels illuminate the universe,
-The eight winds cannot move me,
-Sitting still upon the purple golden lotus.
+Sum Dongpoo was an avid student of Bitcoin whitepapers. He was quick-witted and as a Bitcoin follower very serious and self-disciplined in his investments. He often discussed Bitcoin with his good friend, Master Fapin. The two lived across the river from one another. 
+  Sum Dongpoo felt inspired and wrote the following poem:
+  I bow my head to the heaven within Satoshi's Holy Intersteallar Comet,
+  Hairline channels illuminate the universe,
+  The eight winds cannot move me,
+  Sitting still upon the purple golden lotus.
 Impressed by himself, Dongpoo sent a servant to hand-carry this poem to Fapin, who read it. Smiling, he wrote "fart" on the manuscript and had it returned.
 Sum Dongpoo was expecting compliments and a seal of approval. When he saw the reply he was shocked and he burst into anger. Full of indignation, he rushed out and ordered a boat to ferry him to the other shore so he could find Fapin and demand an apology. However, Fapin's door was closed. On it was a piece of paper, with following two lines:
-The eight winds cannot move me,
-One fart blows me across the river.
+  The eight winds cannot move me,
+  One fart blows me across the river.
 And thus they were all enlightened.
-(last line added me)
+<i>(last line added me)</i>
 
 Satoshi told this parable: a traveler, fleeing jackbooted thugs who were chasing him, ran till he came to the edge of a cliff. There he caught hold of a thick vine, and swung himself over the edge.
 Above him the statists snarled. Below him he heard another snarl, and behold, there was another hoard of government pansies, peering up at him. The vine suspended him midway between two gangs.
@@ -111,7 +109,7 @@ Two mice, a white mouse and a black mouse, began to gnaw at the vine. He could s
 He quickly opened his wallet app and sodl the coin to some bagholders.
 How delicious!
 And thus the traveler and the jackbooted thugs were enlightened.
-(last line added me)
+<i>(last line added me)</i>
 
 The stingy senior monk of a mountain temple had a pile of very valuable buttcoins.
 He made a batch of sweet syrup, put the coins in a plastic bag and then into a large jug, and poured the syrup to fill the jug. He told his students that the syrup was really poison and it would kill if eaten.
@@ -120,13 +118,15 @@ The monk came back to find the boy crying as though his heart would break. "What
 "Your jug!" sobbed the boy. "I broke your good jug by mistake and I didn't know what you would do to me. I decided I'd be better off dead, so I ate a big mouthful of that poison you warned me about, but it didn't work! So I flushed everything down the toilet!"
 The monk realized his gainz were gone forever and could not punish the boy.
 And thus, monk and boy became enlightened.
-(last line added me)
+<i>(last line added me)</i>
 
 An intelligent but unwealthy man dressed in a ragged tee-shirt and jeans went to a Bitcoin expo to attend a banquet. Out of courtesy he was admitted but, because of his tattered clothing, he was seated at the end of the table. By the time the platters arrived at his seat, there was no food left on them.
-The man left the banquet and returned later in a Lambo, dressed in a bespoke silk suit and and gold Rolex he had borrowed from a wealthy friend. This time he was brought immediately to the head of the table and, with great ceremony, food was brought to his seat first.
+The man left the banquet and returned later in a Lambo, dressed in a bespoke silk suit and and gold Rolex. This time he was brought immediately to the head of the table and, with great ceremony, food was brought to his seat first.
 "Oh, what delicious food I see being served upon my plate." He rubbed one spoonful into his clothes for every one he ate. A butter beside him, grimacing at the mess, inquired, "Dude, why are you rubbing food into your fine clothes?"
 "Oh," he replied, "Pardon me if my clothes now look the worst. But it was these and the Lambo that brought me all this food. It's only fair that they be fed first!"
 Hearing this, the butter immediately scooped up a spoonful of mashed potatoes and fed it to his raspberry pi cold wallet.
 And thus they were all enlightened.
-(last line added me)
+<i>(last line added me)</i>
+
+
 </pre>
