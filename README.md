@@ -1,6 +1,6 @@
 # ZenMasterBot Classics (by u/BarcaloungerJockey)
 
-<pre>
+
 In the light of a flickering screen,
 Yet in a dream Satoshi talks of a dream.
 A monster among monsters,
@@ -129,4 +129,4 @@ And thus they were all enlightened.
 <i>(some changes and last line added me)</i>
 
 
-</pre>
+
