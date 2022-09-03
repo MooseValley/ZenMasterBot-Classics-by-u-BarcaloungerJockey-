@@ -126,7 +126,7 @@ The man left the banquet and returned later in a Lambo, dressed in a bespoke sil
 "Oh," he replied, "Pardon me if my clothes now look the worst. But it was these and the Lambo that brought me all this food. It's only fair that they be fed first!"
 Hearing this, the butter immediately scooped up a spoonful of mashed potatoes and fed it to his raspberry pi cold wallet.
 And thus they were all enlightened.
-<i>(last line added me)</i>
+<i>(some changes and last line added me)</i>
 
 
 </pre>
